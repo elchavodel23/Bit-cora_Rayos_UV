@@ -11,11 +11,11 @@ El proyecto comenzó como el desarrollo de un dispositivo low tech para medir la
 
 ## Equipo
 
-| Integrante | Responsabilidad registrada en el proceso |
+| Integrantes | Responsabilidad registrada en el proceso |
 |---|---|
-| Fernanda | Desarrollo del código de las distintas partes del dispositivo |
-| Ramón | Desarrollo de prototipos estructurales y definición de la disposición de componentes |
-| Baltazar | Desarrollo de prototipos estructurales y definición de la disposición de componentes |
+| Fernanda Chau | Desarrollo del código de las distintas partes del dispositivo |
+| Ramón Romero| Desarrollo de prototipos estructurales y definición de la disposición de componentes, diagramación de lámina|
+| Baltazar Sepulveda| Desarrollo de prototipos estructurales y definición de la disposición de componentes, registro de bitácora,diagramación de lámina|
 
 ## Desafío o problemática inicial
 
