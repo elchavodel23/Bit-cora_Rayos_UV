@@ -20,7 +20,7 @@ El proyecto comenzó como el desarrollo de un dispositivo low tech para medir la
 ## Desafío o problemática inicial
 
 La propuesta surge a partir de los altos niveles de radiación UV presentes en Chile, especialmente en la zona norte. La primera presentación plantea que factores territoriales como la menor latitud, la escasa nubosidad y la elevada altitud contribuyen a que se registren índices UV elevados durante gran parte del año.
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7fc84a3a-139f-4b10-b4f1-40e22d92c415" />
+
 
 
 El proyecto busca hacer más comprensible el nivel de radiación UV detectado y contribuir a la concientización sobre los riesgos de la exposición sin cuidados.
