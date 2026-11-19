@@ -39,6 +39,4 @@ La propuesta actual está pensada para ser dispuesta en colegios. La presentaci�
 - [S02 - Exploración de ideas y redefinición del proyecto](bitacora/S02.md)
 - [S03 - Desarrollo técnico y prototipado](bitacora/S03.md)
 
-## Estado de la documentación
 
-Esta bitácora se construyó a partir del documento de contextualización y avances entregado. Las fechas de las sesiones, fotografías originales, resultados de pruebas y otros antecedentes que no aparecen especificados se mantienen pendientes de completar.
