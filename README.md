@@ -38,5 +38,6 @@ La propuesta actual está pensada para ser dispuesta en colegios. La presentaci�
 - [S01 - Contexto inicial y definición del desafío](bitacora/S01.md)
 - [S02 - Exploración de ideas y redefinición del proyecto](bitacora/S02.md)
 - [S03 - Desarrollo técnico y prototipado](bitacora/S03.md)
+- [S04 - Etapa de desarrollo final](bitacora/S04.md)
 
 
